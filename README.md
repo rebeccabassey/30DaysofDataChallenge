@@ -69,3 +69,4 @@ This repository contains my portfolio projects for the 30 Days of Data Challenge
 - Always do collaborative data cleaning.
 - Keep detailed documentation.
 
+*Screenshot* https://github.com/rebeccabassey/30DaysofDataChallenge/blob/main/Screenshot%202025-06-22%20223953.png
