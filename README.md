@@ -24,7 +24,7 @@ This repository contains my portfolio projects for the 30 Days of Data Challenge
 *Recommendations:* 
 - Encourage screen time limits and break reminders.
 
-
+*Screenshot* https://github.com/rebeccabassey/30DaysofDataChallenge/blob/main/Screenshot%202025-06-18%20202846.png
 
 ## 📌 Project 2: Investment Preference Analysis Dashboard
 *Summary:* Power BI dashboard exploring how demographics influence investment preferences.
