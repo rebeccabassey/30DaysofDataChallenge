@@ -46,6 +46,7 @@ This repository contains my portfolio projects for the 30 Days of Data Challenge
 *Recommendations:* 
 - Avoid gender-based targeting.
 - Segment based on goals and risk appetite.
+ 
 *File* https://github.com/rebeccabassey/30DaysofDataChallenge/blob/main/Finance%20data%20dashboard.pbix
 
 ## 📌 Project 3: Data Cleaning Live Collaboration
